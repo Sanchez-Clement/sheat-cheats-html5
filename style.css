@@ -57,7 +57,8 @@ p {
 
 }
 
-a {
+a, a i {
   text-decoration: none;
   color: white;
 }
+ i { color: red;}
